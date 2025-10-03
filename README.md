@@ -21,7 +21,7 @@ Airbnb generates vast amounts of booking data, but hosts and platform managers o
 ---
 
 ## 📂 Dataset  
-- **Source:** [Airbnb Booking Dataset]((https://github.com/GaganYadav20/VOIS_AICTE_Oct2025_Gagan_Yadav/blob/main/Airbnb_Open_Data.xlsx))
+- **Source:** [Airbnb Booking Dataset]([https://github.com/GaganYadav20/VOIS_AICTE_Oct2025_Gagan_Yadav/blob/main/Airbnb_Open_Data.xlsx])
 - Contains details on bookings, guests, prices, reviews, and host information.  
 - **Preprocessing:** Handling missing values, feature engineering, and standardization.  
 
